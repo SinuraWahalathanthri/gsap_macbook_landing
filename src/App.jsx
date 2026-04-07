@@ -1,10 +1,12 @@
-import Navbar from "./components/Navbar"
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
 
 const App = () => {
-    return (
+  return (
     <main>
-        <Navbar/>
+      <Navbar />
+      <Hero />
     </main>
-    )
-}
-export default App
+  );
+};
+export default App;
