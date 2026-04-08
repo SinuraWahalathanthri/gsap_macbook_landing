@@ -46,9 +46,9 @@ function Showcase() {
                             <p>
                                 Introducing {" "}
                                 <span className="text-white">
-                                    M4, the next generation of Aplle Silicon
+                                     M4, the next generation of Apple Silicon
                                 </span>
-                                . M4 powers
+                                . M4 powers the most advanced iPad Pro ever.
                             </p>
 
                             <p>
